@@ -1,0 +1,12 @@
+class Main {
+  public static void main(String[] args) {
+
+    double interest = 923.234d;
+
+    // convert double to string
+    System.out.println(String.valueOf(interest));
+
+  }
+}
+
+// Output: 923.234
